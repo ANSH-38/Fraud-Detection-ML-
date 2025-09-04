@@ -32,3 +32,5 @@ Best performing model: **Random Forest**.
 ```bash
 git clone https://github.com/your-username/Fraud-Detection-ML.git
 cd Fraud-Detection-ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/fraud-detection-ml/blob/main/notebooks/fraud_detection.ipynb)
+
