@@ -36,7 +36,8 @@ Class: 1 → Fraud, 0 → Genuine
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/ANSH-38/fraud-detection-ml.git
+git clone: https://github.com/Ansh-38/fraud-detection-ml.git
+
 cd fraud-detection-ml
 pip install -r requirements.txt
 
